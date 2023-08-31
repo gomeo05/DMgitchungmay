@@ -18,3 +18,5 @@ FROM
   txs
 GROUP BY
   1
+#Complete three tasks and
+EARN 50 VENOM!
