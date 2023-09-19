@@ -1,5 +1,4 @@
-WITH
-  txs AS (
+txs AS (
     SELECT
       *,
       98.4 AS avg_tx
