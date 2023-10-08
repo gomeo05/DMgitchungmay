@@ -2,7 +2,7 @@ txs as (
     SELECT
       *,
       98.4 AS avg_tx
-    FROM
+    from
       zksync_ethereum.ZkSync_evt_BlockCommit
   )
 SELECT
