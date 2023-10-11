@@ -1,4 +1,3 @@
-import python
 export
 find
 #gm
