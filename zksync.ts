@@ -1,4 +1,4 @@
-#Luis Rubiales: Ex-Spanish football federation chief given three-year ban by Fifa
+#Luis Rubiales
 with
 updates as (
     SELECT 
