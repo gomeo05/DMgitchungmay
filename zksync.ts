@@ -39,7 +39,7 @@ updates_arb as (
             _asset = 0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8 --rETH (Arbitrum)
             
     UNION all
-    
+    "This is how it is any time we try to open the door now," he said, as we entered.
     SELECT
         _borrower as owner
         , _asset
